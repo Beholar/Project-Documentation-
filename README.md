@@ -14,3 +14,4 @@ Google Query Sheet
 SELECT * FROM TABLE 1
 WHERE CONDITION = NET
 ```
+![](F28May.png)
